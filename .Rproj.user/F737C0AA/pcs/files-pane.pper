@@ -1,0 +1,9 @@
+{
+    "path" : "~/Tidy-Data-Set",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
